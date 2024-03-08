@@ -1,0 +1,14 @@
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\Exercise 3.AssemblyInfoInputs.cache
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\Exercise 3.AssemblyInfo.cs
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\Exercise 3.csproj.CoreCompileInputs.cache
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\bin\Debug\net8.0\Exercise 3.exe
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\bin\Debug\net8.0\Exercise 3.deps.json
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\bin\Debug\net8.0\Exercise 3.runtimeconfig.json
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\bin\Debug\net8.0\Exercise 3.dll
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\bin\Debug\net8.0\Exercise 3.pdb
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\Exercise 3.dll
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\refint\Exercise 3.dll
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\Exercise 3.pdb
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\Exercise 3.genruntimeconfig.cache
+D:\MacEwan\Introduction to C#\Exercise 3\Exercise 3\obj\Debug\net8.0\ref\Exercise 3.dll

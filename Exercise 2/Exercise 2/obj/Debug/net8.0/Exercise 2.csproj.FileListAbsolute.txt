@@ -1,0 +1,14 @@
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\bin\Debug\net8.0\Exercise 2.exe
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\bin\Debug\net8.0\Exercise 2.deps.json
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\bin\Debug\net8.0\Exercise 2.runtimeconfig.json
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\bin\Debug\net8.0\Exercise 2.dll
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\bin\Debug\net8.0\Exercise 2.pdb
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\Exercise 2.AssemblyInfoInputs.cache
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\Exercise 2.AssemblyInfo.cs
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\Exercise 2.csproj.CoreCompileInputs.cache
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\Exercise 2.dll
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\refint\Exercise 2.dll
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\Exercise 2.pdb
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\Exercise 2.genruntimeconfig.cache
+D:\MacEwan\Introduction to C#\Exercise 2\Exercise 2\obj\Debug\net8.0\ref\Exercise 2.dll
