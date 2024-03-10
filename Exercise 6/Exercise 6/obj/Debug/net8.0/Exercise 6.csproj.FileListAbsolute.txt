@@ -1,0 +1,15 @@
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\bin\Debug\net8.0\Exercise 6.exe
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\bin\Debug\net8.0\Exercise 6.deps.json
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\bin\Debug\net8.0\Exercise 6.runtimeconfig.json
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\bin\Debug\net8.0\Exercise 6.dll
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\bin\Debug\net8.0\Exercise 6.pdb
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\Exercise 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\Exercise 6.AssemblyInfoInputs.cache
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\Exercise 6.AssemblyInfo.cs
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\Exercise 6.csproj.CoreCompileInputs.cache
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\Exercise 6.sourcelink.json
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\Exercise 6.dll
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\refint\Exercise 6.dll
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\Exercise 6.pdb
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\Exercise 6.genruntimeconfig.cache
+D:\MacEwan\Introduction to C# (Exercise)\Exercise 6\Exercise 6\obj\Debug\net8.0\ref\Exercise 6.dll
